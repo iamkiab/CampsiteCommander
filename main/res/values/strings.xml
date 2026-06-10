@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CampsiteCommander</string>
+    <string name="campsite_commander">Campsite Commander</string>
+    <string name="category">Category</string>
+    <string name="item_name">Item Name</string>
+    <string name="todo">TODO</string>
+    <string name="comments">Comments</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_gear">Add Gear</string>
+    <string name="back_to_base">Back to Base</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="exit">exit</string>
+    <string name="display_gear">Display Gear</string>
+    <string name="show_quantity">Show Quantity</string>
+    <string name="output_items">Output items</string>
+</resources>
